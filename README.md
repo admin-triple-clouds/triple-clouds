@@ -1,26 +1,21 @@
-# triple-clouds
-Triple-Clouds Public 
-
 # TripleClouds
 
 TripleClouds is a cloud-native information service company,
 focused on building reliable, automation-first systems.
 
-## Purpose of This GitHub
+## What this repository is for
 
-This organization hosts:
-- Official company repositories
-- Internal tools & infrastructure code
-- Experimental R&D projects (isolated by repo)
+This repository serves as the root entry point of the TripleClouds GitHub organization.
 
-This GitHub is intentionally kept **clean and production-oriented**.
+- Company overview
+- Standards & conventions
+- Links to official projects (to be added)
 
 ## Status
 
 🟡 Bootstrapping phase  
-Core infrastructure is being rebuilt and migrated.
+Core infrastructure and systems are being rebuilt.
 
-## Notes
+---
 
-- Personal experiments are kept outside this organization.
-- All repositories here follow company-level standards.
+© TripleClouds
